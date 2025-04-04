@@ -29,10 +29,10 @@ The site is fully responsive — works great on mobile, tablet, and desktop.
 
 ## 📎 Links
 
-- 📧 Email: [yourname@gmail.com](mailto:yourname@gmail.com)
-- ☎️ Phone: +254712345678
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
-- 🐙 [GitHub](https://github.com/yourgithub)
+- 📧 Email: (mailto:vaephantus@gmail.com)
+- ☎️ Phone: +254788800674
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ephantus-muriithi/)
+- 🐙 [GitHub](https://github.com/Ephantusmr)
 
 ---
 
